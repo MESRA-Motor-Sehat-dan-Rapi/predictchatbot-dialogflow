@@ -88,7 +88,7 @@ This project demonstrates how to integrate a Dialogflow agent with an Express.js
 ├── credential.json        # Service Account Key JSON (not included in repo)
 ├── .env                   # Environment variables
 ├── package.json           # Dependencies and scripts
-├── server.js              # Main server code
+├── app.js                 # Main server code
 └── README.md              # Project documentation
 ```
 
@@ -158,12 +158,4 @@ This project demonstrates how to integrate a Dialogflow agent with an Express.js
 |Arifatus Fitriani |C296B4KX0643 |Universitas Pembangunan Nasional Veteran Jawa Timur |
 |Mochammad Irfan Efendi |C202B4KY2532 |Universitas Dr Soetomo |
 
-
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-For any further questions, feel free to contact the project owner.
 
